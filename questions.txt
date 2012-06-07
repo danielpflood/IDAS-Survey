@@ -1,0 +1,3 @@
+[[q1]]-What is your favorite alcoholic drink?
+[[q2]]-When you drink, how many drinks do you typically consume in the first hour of drinking?
+etc
