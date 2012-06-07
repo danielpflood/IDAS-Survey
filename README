@@ -1,0 +1,19 @@
+index.php
+	contains signup form.
+	
+smshandler.php
+	file used by tropo, handles texts and calls.
+	
+func.php
+	various functions used for logging and maintaing users.
+	
+log.csv
+	log of users and their statuses.
+	
+questions.csv
+	a list of the questions to be asked.
+	
+answers/[phonenumber].csv
+	will contain the answers for the user [phonenumber]
+	
+	
